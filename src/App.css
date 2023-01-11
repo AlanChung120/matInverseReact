@@ -1,0 +1,94 @@
+body {
+    background-color: aqua;
+}
+
+.dimensions {
+    min-height: 15vh;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    display: grid;
+    background-color: rgb(43, 247, 2);
+}
+
+.matrix {
+    min-height: 65vh;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    display: grid;
+    background-color: rgb(2, 202, 252);
+    margin-top: 20px;
+}
+
+.mainMatrix {
+    min-height: 50vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.rows {
+    margin-bottom: 10px;
+    display:flex;
+    justify-content: center;
+}
+
+.errormsg {
+    color:rgb(255, 0, 0);
+}
+
+p {
+    width: 50px;
+    height: 15px;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+label {
+    width: 200px;
+	height: 10px;  
+    margin: auto;
+    text-align: center;
+}
+
+select {
+    width: 125px;
+	height: 25px;
+    margin: auto;
+}
+
+input {
+    width: 50px;
+	height: 25px;
+    margin-left: 10px;
+}
+
+input:hover {
+    background-color: bisque;
+}
+
+select:hover {
+    background-color: bisque;
+}
+
+button {
+	outline: none;
+	cursor: pointer;
+	background-color: #ff0808;
+	text-align: center;
+	border-radius: 15px;
+	width: 125px;
+	height: 25px;
+    margin: auto;
+}
+
+button:hover{
+	background-color: #c40202;
+}
