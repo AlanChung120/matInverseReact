@@ -1,5 +1,5 @@
 Finished and uploaded January 11th, 2023. Used React. This is a simple web application that allows the user to input the dimensions of matrix (1~9) and the matrix itself. Then it displays the inverse of the matrix and the time it took to calculate the inverse. It also returns an error message if the matrix is singular. <br />
-You'll need to download Node.js: https://nodejs.org/en/ <br />
+You'll need to download Node.js (20.14.0): https://nodejs.org/en/ <br />
 To run: <br />
 Go to the directory in the command prompt and type "npm install" then "npm start" in the command prompt. <br />
  
